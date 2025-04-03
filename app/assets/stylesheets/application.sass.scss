@@ -2,4 +2,6 @@ $govuk-global-styles: true;
 $govuk-new-link-styles: true;
 $govuk-assets-path: "/";
 
-@import "govuk-frontend/dist/govuk/all";
+@use "govuk-frontend/dist/govuk/index";
+@use "logo";
+@use "header";
