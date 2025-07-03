@@ -2,3 +2,13 @@ en:
   service:
     name: DA Journal
     email:
+  shared:
+    logo: SC.
+    header:
+      title: Digital Associate Journal 👩🏼‍💻
+    footer:
+      link_text_sc: Sarah Crack
+      link_url_sc: https://sarahcrack.io/
+      link_text_dfe_template: DfE Rails template
+      link_url_dfe_template: https://github.com/DFE-Digital/rails-template
+      body_html: Journal created by %{link_sc} using the %{link_dfe_template}.
